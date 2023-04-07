@@ -3,6 +3,19 @@ A list of things I've used myself and found to be robust and useful.
 
 ## face modeling
 
+### Variational Inference (e.g. VAE, Flow-based Model)
+- [survey] Kingma, D. P., & Welling, M. (2019). An introduction to variational autoencoders. Foundations and Trends® in Machine Learning, 12(4), 307-392. [arXiv](https://arxiv.org/abs/1906.02691).
+- [thesis] Kingma, D. P. (2017). Variational inference & deep learning: A new synthesis. [pdf](https://pure.uva.nl/ws/files/17891313/Thesis.pdf).
+- [VAE] Kingma, D. P., & Welling, M. (2014). Auto-encoding variational bayes. ICLR. [arXiv](https://arxiv.org/abs/1312.6114).
+- [IAF] Kingma, D. P., Salimans, T., Jozefowicz, R., Chen, X., Sutskever, I., & Welling, M. (2016). Improved variational inference with inverse autoregressive flow. NeurIPS. [arXiv](https://arxiv.org/abs/1606.04934). 
+- [Glow] Kingma, D. P., & Dhariwal, P. (2018). Glow: Generative flow with invertible 1x1 convolutions. NeurIPS. [arXiv](https://arxiv.org/abs/1807.03039). [code](https://github.com/openai/glow).
+- [Flow++] Ho, J., Chen, X., Srinivas, A., Duan, Y., & Abbeel, P. (2019, May). Flow++: Improving flow-based generative models with variational dequantization and architecture design. In International Conference on Machine Learning (pp. 2722-2730). PMLR. [code](https://github.com/aravindsrinivas/flowpp). [arXiv](https://arxiv.org/abs/1902.00275).
+
+### Diffusion Model
+- [DDPM] Ho, J., Jain, A., & Abbeel, P. (2020). Denoising diffusion probabilistic models. NeurIPS. [arXiv](https://arxiv.org/abs/2006.11239). [code](https://github.com/hojonathanho/diffusion).
+- [ImprovedDDPM] Nichol, A. Q., & Dhariwal, P. (2021, July). Improved denoising diffusion probabilistic models. In International Conference on Machine Learning (pp. 8162-8171). PMLR. [code](https://github.com/openai/improved-diffusion). [arXiv](https://arxiv.org/abs/2102.09672).
+- [GuidedDiffusion] Dhariwal, P., & Nichol, A. (2021). Diffusion models beat gans on image synthesis. NuerIPS. [arXiv](https://arxiv.org/abs/2105.05233). [code](https://github.com/openai/guided-diffusion).
+
 ### Generative Adversarial Network (GAN)
 - [StyleGAN] Karras, T., Laine, S., & Aila, T. (2019). A style-based generator architecture for generative adversarial networks. CVPR. [code](https://github.com/NVlabs/stylegan). [arXiv](https://arxiv.org/abs/1812.04948).
 - [StyleGAN2] Karras, T., Laine, S., Aittala, M., Hellsten, J., Lehtinen, J., & Aila, T. (2020). Analyzing and improving the image quality of stylegan. CVPR. [code](https://github.com/NVlabs/stylegan2). [arXiv](https://arxiv.org/abs/1912.04958)
