@@ -1,5 +1,4 @@
 # face-modeling-utilization-paper-implementation-list
-Top-tier papers and implementations for face modeling and utilization (e.g. editing of image, generation of video)
 A list of things I've used myself and found to be robust and useful.
 
 ## face modeling
