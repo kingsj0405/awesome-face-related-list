@@ -26,7 +26,11 @@ A list of things I've used myself and found to be robust and useful.
 - [survey] Egger, B., Smith, W. A., Tewari, A., Wuhrer, S., Zollhoefer, M., Beeler, T., ... & Vetter, T. (2020). 3d morphable face models—past, present, and future. ACM Transactions on Graphics (TOG), 39(5), 1-38. [arXiv](https://arxiv.org/abs/1909.01815)
 - [3DDFA_V2] Guo, J., Zhu, X., Yang, Y., Yang, F., Lei, Z., & Li, S. Z. (2020, November). Towards fast, accurate and stable 3d dense face alignment. ECCV. [code](https://github.com/cleardusk/3DDFA_V2). [arXiv](https://arxiv.org/abs/2009.09960)
 
+### Face Detection & Tracking
+- [dlib] http://dlib.net/face_detector.py.html. [code](http://dlib.net/face_detector.py.html).
+
 ### Facial Landmark
+- [dlib] http://dlib.net/face_landmark_detection.py.html. [code](http://dlib.net/face_landmark_detection.py.html).
 - [AdaptiveWingLoss] Wang, X., Bo, L., & Fuxin, L. (2019). Adaptive wing loss for robust face alignment via heatmap regression. ICCV. [code](https://github.com/protossw512/AdaptiveWingLoss). [arXiv](https://arxiv.org/abs/1904.07399).
 - [HRNets] Wang, J., Sun, K., Cheng, T., Jiang, B., Deng, C., Zhao, Y., ... & Xiao, B. (2020). Deep high-resolution representation learning for visual recognition. IEEE transactions on pattern analysis and machine intelligence, 43(10), 3349-3364. [code](https://github.com/HRNet/HRNet-Facial-Landmark-Detection). [arXiv](https://arxiv.org/abs/1908.07919)
 - [FAN] Yang, J., Bulat, A., & Tzimiropoulos, G. (2020, April). Fan-face: a simple orthogonal improvement to deep face recognition. AAAI. [code](https://github.com/1adrianb/face-alignment). [pdf](https://www.adrianbulat.com/downloads/AAAI20/FANFace.pdf).
