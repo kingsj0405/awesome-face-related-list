@@ -1,6 +1,12 @@
 # face-modeling-utilization-paper-implementation-list
 A list of things I've used myself and found to be robust and useful.
 
+## dataset
+
+- [VoxCeleb2] Chung, J. S., Nagrani, A., & Zisserman, A. (2018). Voxceleb2: Deep speaker recognition. arXiv preprint arXiv:1806.05622. [Homepage](https://www.robots.ox.ac.uk/~vgg/data/voxceleb/vox2.html). [pdf](https://www.robots.ox.ac.uk/~vgg/publications/2018/Chung18a/chung18a.pdf). [kingsj0405/video-preprocessing](https://github.com/kingsj0405/video-preprocessing).
+- [WFLW] Wu, W., Qian, C., Yang, S., Wang, Q., Cai, Y., & Zhou, Q. (2018). Look at boundary: A boundary-aware face alignment algorithm. CVPR. [Homepage](https://wywu.github.io/projects/LAB/WFLW.html).
+- [LRW] Chung, J. S., & Zisserman, A. (2017). Lip reading in the wild. ACCV. [Homepage](https://www.robots.ox.ac.uk/~vgg/data/lip_reading/lrw1.html). [pdf](https://www.robots.ox.ac.uk/~vgg/publications/2016/Chung16/chung16.pdf).
+
 ## face modeling
 
 ### Variational Inference (e.g. VAE, Flow-based Model)
@@ -32,5 +38,5 @@ A list of things I've used myself and found to be robust and useful.
 ### Facial Landmark
 - [dlib] http://dlib.net/face_landmark_detection.py.html. [code](http://dlib.net/face_landmark_detection.py.html).
 - [AdaptiveWingLoss] Wang, X., Bo, L., & Fuxin, L. (2019). Adaptive wing loss for robust face alignment via heatmap regression. ICCV. [code](https://github.com/protossw512/AdaptiveWingLoss). [arXiv](https://arxiv.org/abs/1904.07399).
-- [HRNets] Wang, J., Sun, K., Cheng, T., Jiang, B., Deng, C., Zhao, Y., ... & Xiao, B. (2020). Deep high-resolution representation learning for visual recognition. IEEE transactions on pattern analysis and machine intelligence, 43(10), 3349-3364. [code](https://github.com/HRNet/HRNet-Facial-Landmark-Detection). [arXiv](https://arxiv.org/abs/1908.07919)
+- [HRNets] Wang, J., Sun, K., Cheng, T., Jiang, B., Deng, C., Zhao, Y., ... & Xiao, B. (2020). Deep high-resolution representation learning for visual recognition. IEEE transactions on pattern analysis and machine intelligence, 43(10), 3349-3364. [code](https://github.com/HRNet/HRNet-Facial-Landmark-Detection). [arXiv](https://arxiv.org/abs/1908.07919). [kingsj0405/hrnet_face_landmark](https://github.com/kingsj0405/hrnet_face_landmark). [kingsj0405/HRNet-Interspecies-Landmark-Detection](https://github.com/kingsj0405/HRNet-Interspecies-Landmark-Detection).
 - [FAN] Yang, J., Bulat, A., & Tzimiropoulos, G. (2020, April). Fan-face: a simple orthogonal improvement to deep face recognition. AAAI. [code](https://github.com/1adrianb/face-alignment). [pdf](https://www.adrianbulat.com/downloads/AAAI20/FANFace.pdf).
