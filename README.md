@@ -17,12 +17,19 @@ A list of things I've used myself and found to be robust and useful.
 
 ### Face Detection & Tracking
 - [dlib] http://dlib.net/face_detector.py.html. [code](http://dlib.net/face_detector.py.html).
+- [ArcFace] Deng, J., Guo, J., Xue, N., & Zafeiriou, S. (2019). Arcface: Additive angular margin loss for deep face recognition. CVPR. [pdf](https://openaccess.thecvf.com/content_CVPR_2019/papers/Deng_ArcFace_Additive_Angular_Margin_Loss_for_Deep_Face_Recognition_CVPR_2019_paper.pdf). [code](https://github.com/deepinsight/insightface). 
 
 ### Facial Landmark
 - [dlib] http://dlib.net/face_landmark_detection.py.html. [code](http://dlib.net/face_landmark_detection.py.html).
 - [AdaptiveWingLoss] Wang, X., Bo, L., & Fuxin, L. (2019). Adaptive wing loss for robust face alignment via heatmap regression. ICCV. [code](https://github.com/protossw512/AdaptiveWingLoss). [arXiv](https://arxiv.org/abs/1904.07399).
 - [HRNets] Wang, J., Sun, K., Cheng, T., Jiang, B., Deng, C., Zhao, Y., ... & Xiao, B. (2020). Deep high-resolution representation learning for visual recognition. IEEE transactions on pattern analysis and machine intelligence, 43(10), 3349-3364. [code](https://github.com/HRNet/HRNet-Facial-Landmark-Detection). [arXiv](https://arxiv.org/abs/1908.07919). [kingsj0405/hrnet_face_landmark](https://github.com/kingsj0405/hrnet_face_landmark). [kingsj0405/HRNet-Interspecies-Landmark-Detection](https://github.com/kingsj0405/HRNet-Interspecies-Landmark-Detection).
 - [FAN] Yang, J., Bulat, A., & Tzimiropoulos, G. (2020, April). Fan-face: a simple orthogonal improvement to deep face recognition. AAAI. [code](https://github.com/1adrianb/face-alignment). [pdf](https://www.adrianbulat.com/downloads/AAAI20/FANFace.pdf).
+
+### Face Tracking
+- [SORT] Bewley, A., Ge, Z., Ott, L., Ramos, F., & Upcroft, B. (2016, September). Simple online and realtime tracking. In 2016 IEEE international conference on image processing (ICIP) (pp. 3464-3468). IEEE. [code](https://github.com/abewley/sort). [arXiv](https://arxiv.org/abs/1602.00763).
+
+### Face IQA
+- [HyperIQA] Su, S., Yan, Q., Zhu, Y., Zhang, C., Ge, X., Sun, J., & Zhang, Y. (2020). Blindly assess image quality in the wild guided by a self-adaptive hyper network. CVPR. [code](https://github.com/SSL92/hyperIQA). [pdf](https://openaccess.thecvf.com/content_CVPR_2020/papers/Su_Blindly_Assess_Image_Quality_in_the_Wild_Guided_by_a_CVPR_2020_paper.pdf).
 
 ## Implicit Generative Model
 
