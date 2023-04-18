@@ -6,6 +6,7 @@ A list of things I've used myself and found to be robust and useful.
 - [VoxCeleb2] Chung, J. S., Nagrani, A., & Zisserman, A. (2018). Voxceleb2: Deep speaker recognition. arXiv preprint arXiv:1806.05622. [Homepage](https://www.robots.ox.ac.uk/~vgg/data/voxceleb/vox2.html). [pdf](https://www.robots.ox.ac.uk/~vgg/publications/2018/Chung18a/chung18a.pdf). [kingsj0405/video-preprocessing](https://github.com/kingsj0405/video-preprocessing).
 - [WFLW] Wu, W., Qian, C., Yang, S., Wang, Q., Cai, Y., & Zhou, Q. (2018). Look at boundary: A boundary-aware face alignment algorithm. CVPR. [Homepage](https://wywu.github.io/projects/LAB/WFLW.html).
 - [LRW] Chung, J. S., & Zisserman, A. (2017). Lip reading in the wild. ACCV. [Homepage](https://www.robots.ox.ac.uk/~vgg/data/lip_reading/lrw1.html). [pdf](https://www.robots.ox.ac.uk/~vgg/publications/2016/Chung16/chung16.pdf).
+- [VFHQ] Xie, L., Wang, X., Zhang, H., Dong, C., & Shan, Y. (2022). VFHQ: A High-Quality Dataset and Benchmark for Video Face Super-Resolution. CVPR Workshop. [pdf](https://openaccess.thecvf.com/content/CVPR2022W/NTIRE/papers/Xie_VFHQ_A_High-Quality_Dataset_and_Benchmark_for_Video_Face_Super-Resolution_CVPRW_2022_paper.pdf).
 
 ## face modeling
 
