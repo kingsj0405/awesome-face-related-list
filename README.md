@@ -1,14 +1,14 @@
-# face-modeling-utilization-paper-implementation-list
+# Awesome Paper and Implementation of Face Modeling and Utilization List
 A list of things I've used myself and found to be robust and useful.
 
-## dataset
+## Dataset
 
 - [VoxCeleb2] Chung, J. S., Nagrani, A., & Zisserman, A. (2018). Voxceleb2: Deep speaker recognition. arXiv preprint arXiv:1806.05622. [Homepage](https://www.robots.ox.ac.uk/~vgg/data/voxceleb/vox2.html). [pdf](https://www.robots.ox.ac.uk/~vgg/publications/2018/Chung18a/chung18a.pdf). [kingsj0405/video-preprocessing](https://github.com/kingsj0405/video-preprocessing).
 - [WFLW] Wu, W., Qian, C., Yang, S., Wang, Q., Cai, Y., & Zhou, Q. (2018). Look at boundary: A boundary-aware face alignment algorithm. CVPR. [Homepage](https://wywu.github.io/projects/LAB/WFLW.html).
 - [LRW] Chung, J. S., & Zisserman, A. (2017). Lip reading in the wild. ACCV. [Homepage](https://www.robots.ox.ac.uk/~vgg/data/lip_reading/lrw1.html). [pdf](https://www.robots.ox.ac.uk/~vgg/publications/2016/Chung16/chung16.pdf).
 - [VFHQ] Xie, L., Wang, X., Zhang, H., Dong, C., & Shan, Y. (2022). VFHQ: A High-Quality Dataset and Benchmark for Video Face Super-Resolution. CVPR Workshop. [pdf](https://openaccess.thecvf.com/content/CVPR2022W/NTIRE/papers/Xie_VFHQ_A_High-Quality_Dataset_and_Benchmark_for_Video_Face_Super-Resolution_CVPRW_2022_paper.pdf).
 
-## face modeling
+## Face modeling
 
 ### 3D Morphable Face Model (3DMM)
 - [survey] Egger, B., Smith, W. A., Tewari, A., Wuhrer, S., Zollhoefer, M., Beeler, T., ... & Vetter, T. (2020). 3d morphable face models—past, present, and future. ACM Transactions on Graphics (TOG), 39(5), 1-38. [arXiv](https://arxiv.org/abs/1909.01815)
@@ -33,7 +33,7 @@ A list of things I've used myself and found to be robust and useful.
 ### Face IQA
 - [HyperIQA] Su, S., Yan, Q., Zhu, Y., Zhang, C., Ge, X., Sun, J., & Zhang, Y. (2020). Blindly assess image quality in the wild guided by a self-adaptive hyper network. CVPR. [code](https://github.com/SSL92/hyperIQA). [pdf](https://openaccess.thecvf.com/content_CVPR_2020/papers/Su_Blindly_Assess_Image_Quality_in_the_Wild_Guided_by_a_CVPR_2020_paper.pdf).
 
-## Implicit Generative Model
+## Generative Model
 
 ### Variational Inference (e.g. VAE, Flow-based Model)
 - [survey] Kingma, D. P., & Welling, M. (2019). An introduction to variational autoencoders. Foundations and Trends® in Machine Learning, 12(4), 307-392. [arXiv](https://arxiv.org/abs/1906.02691).
