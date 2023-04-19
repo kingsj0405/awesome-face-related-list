@@ -1,5 +1,7 @@
-# Awesome Paper and Implementation of Face Modeling and Utilization List
+# Awesome Face Related List
+In summry this repository includes papers and implementations of face modeling and utilization.
 A list of things I've used myself and found to be robust and useful.
+Many basics of computer vision things will be also included.
 
 ## Dataset
 
