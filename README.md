@@ -19,7 +19,7 @@ A list of things I've used myself and found to be robust and useful.
 ### Face Detection & Tracking
 - [dlib] http://dlib.net/face_detector.py.html. [code](http://dlib.net/face_detector.py.html).
 - [ArcFace] Deng, J., Guo, J., Xue, N., & Zafeiriou, S. (2019). Arcface: Additive angular margin loss for deep face recognition. CVPR. [pdf](https://openaccess.thecvf.com/content_CVPR_2019/papers/Deng_ArcFace_Additive_Angular_Margin_Loss_for_Deep_Face_Recognition_CVPR_2019_paper.pdf). [code](https://github.com/deepinsight/insightface/tree/6b1bc1347798815111212b44334424ff7a9dd1fc/recognition/arcface_torch).
-- [RetinaNet] Deng, J., Guo, J., Ververas, E., Kotsia, I., & Zafeiriou, S. (2020). Retinaface: Single-shot multi-level face localisation in the wild. CVPR. [arXiv](https://arxiv.org/abs/1905.00641). [code](https://github.com/deepinsight/insightface/tree/master/detection/retinaface).
+- [RetinaFace] Deng, J., Guo, J., Ververas, E., Kotsia, I., & Zafeiriou, S. (2020). Retinaface: Single-shot multi-level face localisation in the wild. CVPR. [arXiv](https://arxiv.org/abs/1905.00641). [code](https://github.com/deepinsight/insightface/tree/master/detection/retinaface). [code2](https://github.com/ternaus/retinaface).
 
 ### Facial Landmark
 - [dlib] http://dlib.net/face_landmark_detection.py.html. [code](http://dlib.net/face_landmark_detection.py.html).
