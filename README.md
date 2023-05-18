@@ -58,6 +58,16 @@ Many basics of computer vision things are also included.
 
 - [HyperIQA] Su, S., Yan, Q., Zhu, Y., Zhang, C., Ge, X., Sun, J., & Zhang, Y. (2020). Blindly assess image quality in the wild guided by a self-adaptive hyper network. CVPR. [code](https://github.com/SSL92/hyperIQA). [pdf](https://openaccess.thecvf.com/content_CVPR_2020/papers/Su_Blindly_Assess_Image_Quality_in_the_Wild_Guided_by_a_CVPR_2020_paper.pdf).
 
+## Non-human Face
+
+### Face Manipulation
+
+- [Pareidolia Face Reenactment] Song, L., Wu, W., Fu, C., Qian, C., Loy, C. C., & He, R. (2021). Pareidolia Face Reenactment. CVPR. [paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Song_Pareidolia_Face_Reenactment_CVPR_2021_paper.pdf). [code](https://github.com/Linsen13/EverythingTalking). [project page](https://wywu.github.io/projects/ETT/ETT.html).
+
+### Perception
+
+- [DIFE] Yang, S., Jeon, S., Nam, S., & Kim, S. J. (2022). Dense Interspecies Face Embedding. NeurIPS. [paper](https://proceedings.neurips.cc/paper_files/paper/2022/file/d71a4a6c796cacd9b8a298589943cdf3-Paper-Conference.pdf). [code](https://github.com/kingsj0405/DIFE). [project page](https://yangspace.co.kr/dife/)
+
 ## Generative Model
 
 ### Variational Inference (e.g. VAE, Flow-based Model)
