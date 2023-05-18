@@ -32,7 +32,30 @@ Many basics of computer vision things are also included.
 ### Face Tracking
 - [SORT] Bewley, A., Ge, Z., Ott, L., Ramos, F., & Upcroft, B. (2016, September). Simple online and realtime tracking. In 2016 IEEE international conference on image processing (ICIP) (pp. 3464-3468). IEEE. [code](https://github.com/abewley/sort). [arXiv](https://arxiv.org/abs/1602.00763).
 
+## Face Manipulation
+
+### Face Reenactment with driving video
+
+- [Cross-Identity] Jeon, S., Nam, S., Oh, S. W., & Kim, S. J. (2020). Cross-identity motion transfer for arbitrary objects through pose-attentive video reassembling. ECCV. [paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123690290.pdf).
+- [LIA] Wang, Y., Yang, D., Bremond, F., & Dantcheva, A. (2022). Latent image animator: Learning to animate images via latent space navigation. ICLR. [arXiv](https://arxiv.org/abs/2203.09043). [code](https://github.com/wyhsirius/LIA). [project page](https://wyhsirius.github.io/LIA-project/).
+
+### Lip-sync with speech
+
+- [Wav2Lip] Prajwal, K. R., Mukhopadhyay, R., Namboodiri, V. P., & Jawahar, C. V. (2020, October). A lip sync expert is all you need for speech to lip generation in the wild. ACM Multimedia. [arXiv](https://arxiv.org/abs/2008.10010). [code](https://github.com/Rudrabha/Wav2Lip). [project page](http://bhaasha.iiit.ac.in/lipsync/).
+- [PC-AVS] Zhou, H., Sun, Y., Wu, W., Loy, C. C., Wang, X., & Liu, Z. (2021). Pose-controllable talking face generation by implicitly modularized audio-visual representation. CVPR. [arXiv](https://arxiv.org/abs/2104.11116). [code](https://github.com/Hangz-nju-cuhk/Talking-Face_PC-AVS). [project page](https://hangz-nju-cuhk.github.io/projects/PC-AVS).
+- [StyleSync] Guan, J., Zhang, Z., Zhou, H., Hu, T., Wang, K., He, D., ... & Wang, J. (2023). StyleSync: High-Fidelity Generalized and Personalized Lip Sync in Style-based Generator. CVPR. [arXiv](https://arxiv.org/abs/2305.05445). [code](https://github.com/guanjz20/StyleSync).
+
+### Face Reenactment with driving audio
+
+- [MakeItTalk] Zhou, Y., Han, X., Shechtman, E., Echevarria, J., Kalogerakis, E., & Li, D. (2020). Makelttalk: speaker-aware talking-head animation. ACM Transactions On Graphics (TOG). [arXiv](https://arxiv.org/abs/2004.12992). [code](https://github.com/yzhou359/MakeItTalk).
+- [AD-NeRF] Guo, Y., Chen, K., Liang, S., Liu, Y. J., Bao, H., & Zhang, J. (2021). Ad-nerf: Audio driven neural radiance fields for talking head synthesis. ICCV. [arXiv](https://arxiv.org/abs/2103.11078). [code](https://github.com/YudongGuo/AD-NeRF). [project page](https://yudongguo.github.io/ADNeRF/).
+- [SSP-NeRF] Liu, X., Xu, Y., Wu, Q., Zhou, H., Wu, W., & Zhou, B. (2022, October). Semantic-aware implicit neural audio-driven video portrait generation. ECCV. [arXiv](https://arxiv.org/abs/2201.07786). [code](https://github.com/alvinliu0/SSP-NeRF). [project page](https://alvinliu0.github.io/projects/SSP-NeRF).
+- [GeneFace] Ye, Z., Jiang, Z., Ren, Y., Liu, J., He, J., & Zhao, Z. (2023). Geneface: Generalized and high-fidelity audio-driven 3d talking face synthesis. ICLR. [arXiv](https://arxiv.org/abs/2301.13430). [code](https://github.com/yerfor/GeneFace). [project page](https://geneface.github.io/).
+- [SadTalker] Zhang, W., Cun, X., Wang, X., Zhang, Y., Shen, X., Guo, Y., ... & Wang, F. (2023). SadTalker: Learning Realistic 3D Motion Coefficients for Stylized Audio-Driven Single Image Talking Face Animation. CVPR. [arXiv](https://arxiv.org/abs/2211.12194). [code](https://github.com/OpenTalker/SadTalker). [project page](https://sadtalker.github.io/).
+- [IP_LAP] Zhong, W., Fang, C., Cai, Y., Wei, P., Zhao, G., Lin, L., & Li, G. (2023). Identity-Preserving Talking Face Generation with Landmark and Appearance Priors. CVPR. [arXiv](https://arxiv.org/abs/2305.08293). [code](https://github.com/Weizhi-Zhong/IP_LAP).
+
 ### Face IQA
+
 - [HyperIQA] Su, S., Yan, Q., Zhu, Y., Zhang, C., Ge, X., Sun, J., & Zhang, Y. (2020). Blindly assess image quality in the wild guided by a self-adaptive hyper network. CVPR. [code](https://github.com/SSL92/hyperIQA). [pdf](https://openaccess.thecvf.com/content_CVPR_2020/papers/Su_Blindly_Assess_Image_Quality_in_the_Wild_Guided_by_a_CVPR_2020_paper.pdf).
 
 ## Generative Model
